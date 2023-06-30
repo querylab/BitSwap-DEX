@@ -1,4 +1,4 @@
-# BitSwapDEX-ERC20 🏛️📜💰 
+# BitSwap-DEX 🏛️📜💰 
 
 BitSwap is a decentralized exchange deployed on Sepolia Testnet, using ReactJS, Solidity and Hardhat. It allows users to exchange tokens and be liquidity providers, without intermediaries. It is transparent, secure and accessible, with demo coins for testing.
 
@@ -10,7 +10,7 @@ BitSwap is a decentralized exchange deployed on Sepolia Testnet, using ReactJS, 
 ## 2. Install dependencies
 
 ```bash
-$ cd BitSwapDEX-ERC20
+$ cd BitSwap-DEX
 $ npm install 
 ```
 ## 3. Change variables in Files
